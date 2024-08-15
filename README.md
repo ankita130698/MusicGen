@@ -59,10 +59,11 @@ For testing and training purposes, you can access the following resources:
 
 Test-Generated Files with Descriptions: This folder contains the generated audio files along with their corresponding textual descriptions.
 
-Test-Generated Files with Descriptions -  https://drive.google.com/drive/folders/1uZXaMOy7vxbkhgmk1aFQ6JVImruu82-3?usp=sharing
+https://drive.google.com/drive/folders/1uZXaMOy7vxbkhgmk1aFQ6JVImruu82-3?usp=sharing
+
 Training Sample Data: This folder contains sample data used for training the MusicGen model. It includes both the audio files and their corresponding text files for reference.
 
-Training Sample Data - https://drive.google.com/drive/folders/1-67fkd3tQul1rxLZ-Dqu2tl7_l2w9S73?usp=sharing
+https://drive.google.com/drive/folders/1-67fkd3tQul1rxLZ-Dqu2tl7_l2w9S73?usp=sharing
 ## Citations
 
 ```
